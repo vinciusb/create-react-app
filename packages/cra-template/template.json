@@ -4,9 +4,10 @@
       "@testing-library/jest-dom": "^5.11.4",
       "@testing-library/react": "^11.1.0",
       "@testing-library/user-event": "^12.1.10",
-      "web-vitals": "^1.0.1",
-      "dot-env": "^1.1.2",
-      "styled-components": "^5.3.1"
+      "web-vitals": "^1.1.2",
+      "dotenv": "^10.0.0",
+      "styled-components": "^5.3.1",
+      "prop-types": "^15.7.2"
     },
     "eslintConfig": {
       "extends": ["react-app", "react-app/jest"]
