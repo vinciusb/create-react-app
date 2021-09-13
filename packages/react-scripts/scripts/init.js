@@ -403,6 +403,7 @@ module.exports = function (
     );
   }
   console.log();
+  console.log('Vinícius Braga Freire version.');
   console.log('Happy hacking!');
 };
 

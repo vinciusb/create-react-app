@@ -1,6 +1,6 @@
 {
   "name": "cra-template-vinciusb",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "keywords": [
     "react",
     "create-react-app",
@@ -21,6 +21,8 @@
   },
   "files": [
     "template",
-    "template.json"
+    "template.json",
+    ".eslintrc.json",
+    ".env"
   ]
 }
